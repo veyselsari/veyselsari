@@ -3,3 +3,4 @@
 - I'm interested in coding and spending my free time to this.
 - I’m currently learning python. Also Linux and C/C++ are on my queue.
 - Add me on instagram for comminication. https://www.instagram.com/veyselsari__/
+- Last thing about me : I'm too lazy to add my own photo to git so i use this anon pp :P.
