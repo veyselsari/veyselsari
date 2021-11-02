@@ -1,4 +1,3 @@
 - Hi, I’m @veyselsari
 - I’m a MD student in Turkey. 
-- I'm interested in coding and spending my free time to this.
-- Last thing about me : I'm too lazy to take my own photo so i use this :P.
+- I'm interested in cybersec and spending my free time to this.
