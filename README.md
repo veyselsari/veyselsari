@@ -1,3 +1,4 @@
 - Hi, I’m @veyselsari
 - I’m a MD student in Turkey. 
-- I'm interested in cybersec and spending my free time to this.
+- I'm interested in cybersec and C/C++
+- I'm new around here
